@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi, I'm a Junior Data Analyst</h1>
+<h1 align="center">👋 Hi, I'm Fabio Lopez</h1>
 
 <p align="center">
   I'm passionate about turning raw data into meaningful insights. I use tools like <strong>Python</strong>, <strong>SQL</strong>, and <strong>Power BI</strong> to clean, analyze, and visualize data.
