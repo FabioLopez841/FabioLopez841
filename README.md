@@ -5,6 +5,10 @@
 </p>
 
 <p align="center">
+  <img src="https://your-image-url.com/banner.png" alt="Banner" width="800"/>
+</p>
+
+<p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=postgresql&logoColor=white"/>
   <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
@@ -35,9 +39,9 @@ Here are some of the projects I've worked on:
 
 ## 📫 Let's Connect
 
-- 📧 Email: your.email@example.com  
-- 💼 LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)  
-- 🌐 Portfolio: [yourportfolio.com](https://yourportfolio.com)
+- 📧 Email: fabiolopez.bluefish@gmail.com 
+- 💼 LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/fabiolopezt)  
+- 🌐 Portfolio: [yourportfolio.com](https://fabiolopezportfolio.xyz)
 
 ---
 
