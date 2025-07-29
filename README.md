@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://imgur.com/gallery/pet-portrait-artwork-of-mabel-No5zwK9" alt="Banner" width="800"/>
+  <img src="https://i.imgur.com/No5zwK9.jpg" alt="Banner" width="800"/>
 </p>
 
 <p align="center">
