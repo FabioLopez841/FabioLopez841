@@ -40,8 +40,8 @@ Here are some of the projects I've worked on:
 ## 📫 Let's Connect
 
 - 📧 Email: fabiolopez.bluefish@gmail.com 
-- 💼 LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/fabiolopezt)  
-- 🌐 Portfolio: [yourportfolio.com](https://fabiolopezportfolio.xyz)
+- 💼 LinkedIn: [linkedin.com/in/fabiolopezt](https://linkedin.com/in/fabiolopezt)  
+- 🌐 Portfolio: [fabiolopezporfolio.xyz](https://fabiolopezportfolio.xyz)
 
 ---
 
