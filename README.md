@@ -31,11 +31,7 @@
 Here are some of the projects I've worked on:
 
 - 🧼 **Data Cleaning with Pandas** — Raw dataset transformation and cleaning  
-- 📉 **Sales Dashboard in Power BI** — Interactive dashboard for sales performance  
-- 🔍 **SQL Queries Practice** — Complex joins, aggregations, and window functions  
-- 📊 **COVID-19 Data Analysis** — Visualizing global trends using Python
 
----
 
 ## 📫 Let's Connect
 
