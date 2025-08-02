@@ -19,7 +19,7 @@
 
 ## 🔍 About Me
 
-- 🎓 I’m learning data analytics through online courses and personal projects  
+- 🎓 I’m learning data analytics through a TripleTen Bootcamp and personal projects  
 - 📊 I build dashboards and clean datasets using Python (Pandas, Matplotlib, Seaborn)  
 - 🧠 Always curious to learn more about data storytelling and business insights  
 - 🌐 I’m open to collaborating on real-world data projects  
