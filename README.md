@@ -1,7 +1,15 @@
-<h1 align="center">👋 Hi, I'm Fabio Lopez</h1>
+<h1 align="center">👋 Hi, I'm Fabio</h1>
 
 <p align="center">
-  I'm passionate about turning raw data into meaningful insights. I use tools like <strong>Python</strong>, <strong>SQL</strong>, and <strong>Power BI</strong> to clean, analyze, and visualize data.
+  I'm passionate about turning raw data into meaningful insights.  
+
+With a background in **Business Administration**, I bring a strong business-oriented perspective to data analysis—always focused on solving real problems and supporting decision-making with evidence.
+
+I'm also a **father to a one-year-old son**, which drives me every day to grow, learn, and build a meaningful career in the data field. Balancing parenthood and professional development has taught me the value of focus, discipline, and purpose.
+
+---
+  
+  I use tools like <strong>Python</strong>, <strong>SQL</strong>, and <strong>Power BI</strong> to clean, analyze, and visualize data.
 </p>
 
 <p align="center">
