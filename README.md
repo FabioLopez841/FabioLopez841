@@ -16,6 +16,8 @@ I'm also a **father to a one-year-old son**, which drives me every day to grow, 
   <img src="https://i.imgur.com/MwCWr9s.jpeg" alt="Banner" width="800"/>
 </p>
 
+---
+
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=postgresql&logoColor=white"/>
