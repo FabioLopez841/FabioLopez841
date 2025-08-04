@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hi, I'm Fabio</h1>
 
 <p align="center">
-  I'm passionate about turning raw data into meaningful insights.  
+  
 
 With a background in **Business Administration**, I bring a strong business-oriented perspective to data analysis—always focused on solving real problems and supporting decision-making with evidence.
 
@@ -10,8 +10,9 @@ I'm also a **father to a one-year-old son**, which drives me every day to grow, 
 ---
   
   I use tools like <strong>Python</strong>, <strong>SQL</strong>, and <strong>Power BI</strong> to clean, analyze, and visualize data.
+  I'm passionate about turning raw data into meaningful insights.  
 </p>
-
+---
 <p align="center">
   <img src="https://i.imgur.com/MwCWr9s.jpeg" alt="Banner" width="800"/>
 </p>
