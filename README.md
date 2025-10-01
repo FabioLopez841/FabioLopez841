@@ -10,7 +10,6 @@ With a background in **Business Administration**, I bring a strong business-orie
 Beyond the professional aspect, I have a **genuine interest in the automotive and mining industries**. These sectors have always fascinated me, and I truly enjoy exploring how data can improve operations, predict outcomes, and reveal patterns in such complex environments. Working with data from these fields is not just part of my career—it's a **personal passion**.
 
 I'm also a **father to a one-year-old son**, which motivates me every day to grow, learn, and build a meaningful and sustainable career in the data field. Balancing parenthood with professional development has taught me the value of focus, discipline, and purpose.
----
 
 I use tools like **Python**, **SQL**, and **Power BI** to clean, analyze, and visualize data—always aiming to **turn raw information into clear, actionable insights**.
 
