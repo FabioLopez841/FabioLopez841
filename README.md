@@ -15,6 +15,16 @@ I use tools like **Python**, **SQL**, and **Power BI** to clean, analyze, and vi
 
 ---
 
+## Sobre mí
+
+Con formación en **Administración de Empresas**, aporto una mentalidad fuertemente orientada al negocio al análisis de datos, siempre enfocándome en resolver problemas reales y respaldar la toma de decisiones con evidencia sólida.
+
+Más allá de lo profesional, tengo un **interés genuino por los sectores automotriz y minero**. Estos campos siempre han captado mi atención, y encuentro una gran satisfacción en explorar cómo los datos pueden mejorar operaciones, predecir resultados y descubrir patrones en estos entornos complejos. Trabajar con datos de estas industrias no es solo parte de mi carrera, sino también **una pasión personal**.
+
+También soy **padre de un niño de un año**, lo cual me impulsa cada día a crecer, aprender y construir una carrera significativa y sostenible en el mundo del análisis de datos. Equilibrar la paternidad con el desarrollo profesional me ha enseñado el valor del enfoque, la disciplina y el propósito.
+
+Utilizo herramientas como **Python**, **SQL** y **Power BI** para limpiar, analizar y visualizar datos, siempre con el objetivo de **transformar información en bruto en insights claros y accionables**.
+
 </p>
 ---
 <p align="center">
