@@ -1,9 +1,9 @@
 <h1 align="center">👋 Hi, I'm Fabio</h1>
----
+
 <p align="center">
   <img src="https://i.imgur.com/MwCWr9s.jpeg" alt="Banner" width="800"/>
 </p>
----
+
 <p align="center">
   
 ## Sobre mí
