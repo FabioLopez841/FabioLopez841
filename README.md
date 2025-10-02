@@ -80,7 +80,7 @@ Welcome to my data analytics portfolio. This space showcases projects that refle
 | 1 | [Mantenimiento Predictivo de Vehículos con Machine Learning](#) | Automotriz | Predicción de fallas en vehículos mediante datos de sensores y modelos ML. |
 | 2 | [Análisis y Visualización de Accidentes de Tráfico](#) | Automotriz | Exploración de factores de riesgo y visualización de datos para mejorar la seguridad vial. |
 | 3 | [Modelado Predictivo de Ventas de Automóviles](#) | Automotriz | Análisis histórico de ventas y predicción de demanda futura con modelos de regresión. |
-| 4 | [Análisis Geoespacial para Zonas Mineras Potenciales](#) | Minería | Identificación de regiones con potencial de extracción usando análisis espacial. |
+| 4 | [Optimizing Iron Concentrate Yield with Machine Learning](https://github.com/FabioLopez841/Optimizing-Iron-Concentrate-Yield-with-Machine-Learning) | Minería | This project applies advanced data analysis and machine learning techniques to optimize the % Iron Concentrate in a mineral flotation process. |
 | 5 | [Mantenimiento Predictivo de Maquinaria Minera](#) | Minería | Predicción de fallas en equipos pesados para reducir tiempos de inactividad. |
 | 6 | [Evaluación del Impacto Ambiental en Zonas Mineras](#) | Minería | Análisis de datos ambientales en regiones de alta actividad minera. |
 | 7 | [Predicción de Producción de Oro con Datos Geoespaciales](#) | Minería | Modelo predictivo basado en datos históricos y mapas geológicos para estimar producción de oro. |
