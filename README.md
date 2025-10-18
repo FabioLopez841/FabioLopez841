@@ -43,7 +43,7 @@ I use tools like **Python**, **SQL**, and **Power BI** to clean, analyze, and vi
 </p>
 
 ---
-# 📊 Data Analytics Portfolio – Automotive & Mining Focus
+# 📊 Data Analytics Portfolio 
 
 Bienvenido/a a mi portafolio de proyectos como analista de datos. Aquí encontrarás trabajos que representan tanto mis habilidades técnicas como mis intereses personales en el análisis de datos, con un enfoque especial en los sectores automotriz y de extracción minera.
 
