@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi, I'm Fabio</h1>
+<h1 align="center">👋 Hi, I'm Fabio — a Data Analyst who loves discovering trends, building dashboards, and solving problems with data.</h1>
 
 <p align="center">
   <img src="https://i.imgur.com/MwCWr9s.jpeg" alt="Banner" width="800"/>
