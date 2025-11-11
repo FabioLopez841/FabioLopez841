@@ -1,8 +1,9 @@
 <h1 align="center">I enjoy learning, and data is my way of making sense of how the world works.</h1>
 
 <p align="center">
- <blockquote class="imgur-embed-pub" lang="en" data-id="a/hO9mIPq" data-context="false" ><a href="//imgur.com/a/hO9mIPq"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+  <img src="https://i.imgur.com/hO9mIPq.png" alt="Dashboard de análisis de datos" width="600">
 </p>
+
 
 <p align="center">
   
