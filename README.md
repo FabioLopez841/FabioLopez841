@@ -4,7 +4,6 @@
   <img src="https://imgur.com/d5Vo0Wg.png" alt="Dashboard de análisis de datos" width="600">
 </p>
 
-
 <p align="center">
 
 ## Sobre mí / About Me  
@@ -12,7 +11,7 @@
 Apasionado por el **análisis de datos** y con formación en **Administración de Empresas**, aplico una visión estratégica para resolver problemas reales en los sectores **automotriz y financiero**.  
 Me motiva descubrir cómo los datos pueden optimizar procesos, predecir tendencias y apoyar decisiones de negocio con base en evidencia.  
 
-Uso herramientas como **Python**, **SQL** y **Power BI** para transformar datos en **insights accionables** que generen valor.  
+Uso herramientas como **Python**, **SQL** y **Tableau** para transformar datos en **insights accionables** que generen valor.  
 Actualmente continúo fortaleciendo mis habilidades a través del **Bootcamp de TripleTen**, desarrollando proyectos enfocados en análisis industrial y financiero.  
 
 </p>
@@ -22,7 +21,7 @@ Actualmente continúo fortaleciendo mis habilidades a través del **Bootcamp de 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
   <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
 </p>
 
@@ -40,7 +39,7 @@ Welcome to my data analytics portfolio — a space where I explore insights that
 
 - **Python** (Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn)  
 - **SQL**  
-- **Power BI** & **Tableau**  
+- **Tableau**  
 - **Excel / Jupyter Notebook**  
 - **Git & GitHub**
 
