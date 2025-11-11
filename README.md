@@ -1,7 +1,7 @@
 <h1 align="center">I enjoy learning, and data is my way of making sense of how the world works.</h1>
 
 <p align="center">
-  <img src="https://imgur.com/hO9mIPq" alt="Banner" width="800"/>
+  <img src="https://imgur.com/a/xljqL2v" alt="Banner" width="800"/>
 </p>
 
 <p align="center">
