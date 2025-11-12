@@ -1,4 +1,4 @@
-<h1 align="center">Fabio Mauricio López Tenorio</h1>
+<h1 align="center">Fabio Lopez Tenorio</h1>
 
 <p align="center">
   <img src="https://imgur.com/PnSHLRK.png" alt="Dashboard de análisis de datos" width="600">
