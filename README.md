@@ -1,6 +1,8 @@
 <h1 align="center">Fabio Mauricio López Tenorio</h1>
 
-
+<p align="center">
+  <img src="https://imgur.com/PnSHLRK.png" alt="Dashboard de análisis de datos" width="600">
+</p>
 
 <p align="center">
 
@@ -55,6 +57,4 @@ Let’s connect and turn data into smart decisions.
 
 <sub>⚡ Always learning. Building one insight at a time.</sub>
 
-<p align="center">
-  <img src="https://imgur.com/PnSHLRK.png" alt="Dashboard de análisis de datos" width="600">
-</p>
+
