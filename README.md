@@ -8,11 +8,16 @@
 
 ## Sobre mí / About Me  
 
-Apasionado por el **análisis de datos** y con formación en **Administración de Empresas**, aplico una visión estratégica para resolver problemas reales en los sectores **hotelero, automotriz y financiero**.  
-Me motiva descubrir cómo los datos pueden optimizar procesos, predecir tendencias y apoyar decisiones de negocio con base en evidencia.  
+Transformo datos complejos en insights claros que impulsan decisiones estratégicas y generan impacto real en el negocio.
 
-Uso herramientas como **Python**, **SQL** y **Tableau** para transformar datos en **insights accionables** que generen valor.  
-Actualmente continúo fortaleciendo mis habilidades a través del **Bootcamp de TripleTen**, desarrollando proyectos enfocados en análisis industrial y financiero.  
+En mi rol como Gerente de Franquicias en Expomasaje S.A. de C.V., diseñé dashboards en Tableau, Power BI y SQL, ayudando a los equipos a tomar decisiones más rápidas y respaldadas por evidencia.
+
+Me apasiona entender cómo funciona el mundo a través de los datos, y cómo la analítica puede conectar lo técnico con lo humano: optimizando procesos, mejorando la comunicación entre áreas y creando valor tangible. <br>
+I transform complex data into clear insights that drive strategic decisions and create real business impact.
+
+As Franchise Manager at Expomasaje S.A. de C.V., I designed Tableau, Power BI, and SQL dashboards that empowered teams to make faster, evidence-based decisions.
+
+I’m passionate about understanding how the world works through data — using analytics to bridge business and technology, optimize processes, and turn information into action.
 
 </p>
 
