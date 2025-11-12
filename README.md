@@ -12,7 +12,9 @@ Transformo datos complejos en insights claros que impulsan decisiones estratégi
 
 En mi rol como Gerente de Franquicias en Expomasaje S.A. de C.V., diseñé dashboards en Tableau, Power BI y SQL, ayudando a los equipos a tomar decisiones más rápidas y respaldadas por evidencia.
 
-Me apasiona entender cómo funciona el mundo a través de los datos, y cómo la analítica puede conectar lo técnico con lo humano: optimizando procesos, mejorando la comunicación entre áreas y creando valor tangible. <br>
+Me apasiona entender cómo funciona el mundo a través de los datos, y cómo la analítica puede conectar lo técnico con lo humano: optimizando procesos, mejorando la comunicación entre áreas y creando valor tangible. 
+
+
 I transform complex data into clear insights that drive strategic decisions and create real business impact.
 
 As Franchise Manager at Expomasaje S.A. de C.V., I designed Tableau, Power BI, and SQL dashboards that empowered teams to make faster, evidence-based decisions.
