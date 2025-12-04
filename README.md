@@ -79,7 +79,7 @@ Let’s connect and turn data into smart decisions.
 ¡Conectemos y transformemos los datos en decisiones inteligentes!
 
 <p align="center">
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNG5qbzl1Y2ZuZGZmbHRyMXdla3MwN3c3Zmw1Z2sxbWNiOWd2NncwdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zOvBKUUEERdNm/giphy.gif" width="420" alt="Animated GIF">
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGo3eHp0d2c0MDdtYjVrZmJiMnJ0b2l0MGwzY3VuY3NjaGZnbDUzdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="420" alt="Animated GIF">
 </p>
 
 ---
