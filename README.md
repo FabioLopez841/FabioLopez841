@@ -39,12 +39,14 @@ Aquí puedes ver algunos de mis proyectos destacados:
 **[🔗 Ver proyecto](https://github.com/FabioLopez841/global_ev_charging_stations)**  
 Análisis exploratorio de estaciones de carga para vehículos eléctricos a nivel global usando **Python, Pandas, Seaborn y Folium**.  
 Incluye visualizaciones geoespaciales y hallazgos clave sobre disponibilidad e infraestructura.
+![EV Charging Stations Project Banner](https://imgur.com/H7vxFfn.png)
 
 ---
 
 ## 🏨 Hotel Booking Analysis  
 **[🔗 Ver proyecto](https://github.com/FabioLopez841/hotel_booking)**  
 Proyecto de análisis de datos de reservas hoteleras. Uso de **Python, SQL y Tableau** para detectar patrones de comportamiento, factores que impactan cancelaciones y oportunidades para optimizar la ocupación.
+
 
 ---
 
