@@ -1,4 +1,3 @@
-<h1 align="center">Fabio Lopez Tenorio</h1>
 
 <p align="center">
   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmNtM3ptY2h5aTY3N2ZwZWdrenJ2eTAzbjl0dmYwMWRtM2JyeGEwYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Id6dC0GQOOzPMXgcPv/giphy.gif" width="360" alt="Animated GIF" style="margin-right: 20px;">
