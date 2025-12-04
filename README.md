@@ -37,33 +37,11 @@ I’ve learned that every dataset hides a story, and my job is to make that stor
 Exploro cómo los datos pueden resolver problemas reales, optimizar procesos y generar valor.  
 Aquí puedes ver algunos de mis proyectos destacados:
 
----
-
-## 🚗 Global EV Charging Stations  
-**[🔗 Ver proyecto](https://github.com/FabioLopez841/global_ev_charging_stations)**  
-Análisis exploratorio de estaciones de carga para vehículos eléctricos a nivel global usando **Python, Pandas, Seaborn y Folium**.  
-Incluye visualizaciones geoespaciales y hallazgos clave sobre disponibilidad e infraestructura.
-
-
----
-
-## 🏨 Hotel Booking Analysis  
-**[🔗 Ver proyecto](https://github.com/FabioLopez841/hotel_booking)**  
-Proyecto de análisis de datos de reservas hoteleras. Uso de **Python, SQL y Tableau** para detectar patrones de comportamiento, factores que impactan cancelaciones y oportunidades para optimizar la ocupación.
-
-
----
-
-## 🧪 Optimizing Iron Concentrate Yield with Machine Learning  
-**[🔗 Ver proyecto](https://github.com/FabioLopez841/Optimizing-Iron-Concentrate-Yield-with-Machine-Learning)**  
-Modelo de ML que analiza datos geoespaciales para identificar zonas de alto potencial mineralógico y mejorar la eficiencia en el rendimiento del concentrado de hierro.
-
----
-
-## 📱 Smartphone Market Review  
-**[🔗 Ver proyecto](https://github.com/FabioLopez841/SmartphonesMarketReview)**  
-Análisis del mercado de smartphones utilizando **Python y Jupyter Notebook**. Incluye segmentación por características, precios y tendencias de mercado.
-
+<p align="center">
+  <a href="https://FabioLopez841.github.io" target="_blank">
+    <img src="https://img.shields.io/badge/🌐 Ver mi portafolio-000000?style=for-the-badge">
+  </a>
+</p>
 ---
 
 ## 🛠️ Tools & Technologies  
