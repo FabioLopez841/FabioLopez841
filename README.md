@@ -1,27 +1,21 @@
-<h1 align="center">Fabio Lopez Tenorio</h1>  
+<h1 align="center">Fabio Lopez Tenorio</h1>
 
 <p align="center">
   <img src="https://imgur.com/PnSHLRK.png" alt="Dashboard de análisis de datos" width="600">
 </p>
 
-<p align="center"> 
+---
 
-## Sobre mí / About Me  
+## 👋 Sobre mí / About Me  
 
-Transformo datos complejos en insights claros que impulsan decisiones estratégicas y generan impacto real en el negocio.
+Transformo datos complejos en **insights accionables** que impulsan decisiones estratégicas y generan impacto real.
 
-En mi rol como Gerente de Franquicias en Expomasaje S.A. de C.V., diseñé dashboards en Tableau, Power BI y SQL, ayudando a los equipos a tomar decisiones más rápidas y respaldadas por evidencia.
+En mi rol como Gerente de Franquicias en *Expomasaje S.A. de C.V.*, desarrollé dashboards en **Tableau, Power BI y SQL**, optimizando procesos y acelerando la toma de decisiones basada en evidencia.
 
-Me apasiona entender cómo funciona el mundo a través de los datos, y cómo la analítica puede conectar lo técnico con lo humano: optimizando procesos, mejorando la comunicación entre áreas y creando valor tangible. 
+Me apasiona entender el mundo a través de los datos y construir soluciones donde lo técnico se encuentra con lo humano: conectar áreas, clarificar información y crear valor con analítica.
 
-
-I transform complex data into clear insights that drive strategic decisions and create real business impact.
-
-As Franchise Manager at Expomasaje S.A. de C.V., I designed Tableau, Power BI, and SQL dashboards that empowered teams to make faster, evidence-based decisions.
-
-I’m passionate about understanding how the world works through data — using analytics to bridge business and technology, optimize processes, and turn information into action.
-
-</p>
+I transform complex data into **clear, actionable insights** that support strategic decisions and drive real business impact.  
+As a Franchise Manager at *Expomasaje S.A. de C.V.*, I designed dashboards using **Tableau, Power BI, and SQL**, enabling faster and evidence-based decision-making.
 
 ---
 
@@ -36,9 +30,33 @@ I’m passionate about understanding how the world works through data — using 
 
 # 📊 Data Analytics Portfolio  
 
-Bienvenido/a a mi portafolio de análisis de datos. Aquí encontrarás proyectos que combinan mis habilidades técnicas y mi interés por la toma de decisiones basadas en datos.
+Exploro cómo los datos pueden resolver problemas reales, optimizar procesos y generar valor.  
+Aquí puedes ver algunos de mis proyectos destacados:
 
-Welcome to my data analytics portfolio — a space where I explore insights that drive innovation
+---
+
+## 🚗 Global EV Charging Stations  
+**[🔗 Ver proyecto](https://github.com/tu_usuario/global_ev_charging_stations)**  
+Análisis exploratorio de estaciones de carga para vehículos eléctricos a nivel global usando **Python, Pandas, Seaborn y Folium**.  
+Incluye visualizaciones geoespaciales y hallazgos clave sobre disponibilidad e infraestructura.
+
+---
+
+## 🏨 Hotel Booking Analysis  
+**[🔗 Ver proyecto](https://github.com/tu_usuario/hotel_booking)**  
+Proyecto de análisis de datos de reservas hoteleras. Uso de **Python, SQL y Tableau** para detectar patrones de comportamiento, factores que impactan cancelaciones y oportunidades para optimizar la ocupación.
+
+---
+
+## 🧪 Optimizing Iron Concentrate Yield with Machine Learning  
+**[🔗 Ver proyecto](https://github.com/tu_usuario/Optimizing-Iron-Concentrate-Yield-with-Machine-Learning)**  
+Modelo de ML que analiza datos geoespaciales para identificar zonas de alto potencial mineralógico y mejorar la eficiencia en el rendimiento del concentrado de hierro.
+
+---
+
+## 📱 Smartphone Market Review  
+**[🔗 Ver proyecto](https://github.com/tu_usuario/SmartphonesMarketReview)**  
+Análisis del mercado de smartphones utilizando **Python y Jupyter Notebook**. Incluye segmentación por características, precios y tendencias de mercado.
 
 ---
 
@@ -58,10 +76,8 @@ Welcome to my data analytics portfolio — a space where I explore insights that
 **[Email](mailto:fabiolopez.bluefish@gmail.com)**  
 
 Let’s connect and turn data into smart decisions.  
-¡Conectemos y transformemos los datos en decisiones inteligentes!  
+¡Conectemos y transformemos los datos en decisiones inteligentes!
 
 ---
 
 <sub>⚡ Always learning. Building one insight at a time.</sub>
-
-
