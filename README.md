@@ -8,14 +8,18 @@
 ---
 ## 👋 Sobre mí / About Me  
 
-Transformo datos complejos en **insights accionables** que impulsan decisiones estratégicas y generan impacto real.
 
-En mi rol como Gerente de Franquicias en *Expomasaje S.A. de C.V.*, desarrollé dashboards en **Tableau, Power BI y SQL**, optimizando procesos y acelerando la toma de decisiones basada en evidencia.
 
-Me apasiona entender el mundo a través de los datos y construir soluciones donde lo técnico se encuentra con lo humano: conectar áreas, clarificar información y crear valor con analítica.
+Transformar datos en decisiones siempre ha sido mi manera de aportar valor. A lo largo de mi carrera he aprendido que, detrás de cada métrica, hay una historia que puede cambiar el rumbo de un proyecto o incluso de una empresa.
 
-I transform complex data into **clear, actionable insights** that support strategic decisions and drive real business impact.  
-As a Franchise Manager at *Expomasaje S.A. de C.V.*, I designed dashboards using **Tableau, Power BI, and SQL**, enabling faster and evidence-based decision-making.
+En mi rol como Gerente de Franquicias en Expomasaje S.A. de C.V., me tocó enfrentar un reto frecuente: mucha información, poca claridad. Fue ahí donde comencé a desarrollar dashboards en Tableau, Power BI y SQL que no solo mostraran números, sino que ayudaran a los equipos a entenderlos, priorizar y actuar con seguridad. Ese proceso me enseñó que la analítica no es un fin, sino un puente entre áreas, personas y decisiones.
+
+Disfruto convertir datos dispersos en conocimiento útil, conectar lo técnico con lo humano y encontrar la lógica detrás de los patrones. Ese equilibrio —entre claridad, estrategia y empatía— es lo que guía mi trabajo día a día.
+
+I’ve learned that every dataset hides a story, and my job is to make that story useful. As Franchise Manager at Expomasaje S.A. de C.V., I designed dashboards in Tableau, Power BI, and SQL that helped teams move from uncertainty to confident, evidence-based decisions. Turning information into clarity is where I do my best work.
+
+
+
 
 ---
 
