@@ -36,9 +36,9 @@ I’m passionate about understanding how the world works through data — using 
 
 # 📊 Data Analytics Portfolio  
 
-Bienvenido/a a mi portafolio de análisis de datos. Aquí encontrarás proyectos que combinan mis habilidades técnicas y mi interés por los sectores  **hotelero,** **automotriz** y **financiero**, enfocados en la toma de decisiones basadas en datos.
+Bienvenido/a a mi portafolio de análisis de datos. Aquí encontrarás proyectos que combinan mis habilidades técnicas y mi interés por la toma de decisiones basadas en datos.
 
-Welcome to my data analytics portfolio — a space where I explore insights that drive innovation in the **hotel industry,** **automotive** and **financial** industries.
+Welcome to my data analytics portfolio — a space where I explore insights that drive innovation
 
 ---
 
