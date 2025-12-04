@@ -78,6 +78,10 @@ Análisis del mercado de smartphones utilizando **Python y Jupyter Notebook**. I
 Let’s connect and turn data into smart decisions.  
 ¡Conectemos y transformemos los datos en decisiones inteligentes!
 
+<p align="center">
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNG5qbzl1Y2ZuZGZmbHRyMXdla3MwN3c3Zmw1Z2sxbWNiOWd2NncwdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zOvBKUUEERdNm/giphy.gif" width="420" alt="Animated GIF">
+</p>
+
 ---
 
 <sub>⚡ Always learning. Building one insight at a time.</sub>
