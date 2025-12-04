@@ -1,12 +1,8 @@
 <h1 align="center">Fabio Lopez Tenorio</h1>
----
-<p align="center">
-  <img src="https://imgur.com/PnSHLRK.png" alt="Dashboard de análisis de datos" width="600">
-</p>
 
----
 <p align="center">
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMnVhZnA2cnIxdTc5MHRlaWppeG9taGE5bmJ1YmxhM2dxemcxdHhwYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LaVp0AyqR5bGsC5Cbm/giphy.gif" width="420" alt="Animated GIF">
+  <img src="https://imgur.com/PnSHLRK.png" alt="Dashboard de análisis de datos" width="420" style="margin-right: 20px;">
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMnVhZnA2cnIxdTc5MHRlaWppeG9taGE5bmJ1YmxhM2dxemcxdHhwYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LaVp0AyqR5bGsC5Cbm/giphy.gif" width="360" alt="Animated GIF">
 </p>
 
 ---
