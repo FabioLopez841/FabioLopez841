@@ -33,7 +33,11 @@ I’ve learned that every dataset hides a story, and my job is to make that stor
 ---
 
 <!-- Hero Banner Premium -->
- <h2 align="center">🌐 Mi Portafolio Profesional</h2>
+ <h2 align="center">
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3M2c3IwYmwwdmIxdGE4MXBiaHNvM2RhcTNiMWVtczljODlzdDVtYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/KGjlaKWM8L2yoLrky6/giphy.gif" width="28" height="28">
+  Mi Portafolio Profesional
+</h2>
+
 <p align="center">
  
   <a href="https://FabioLopez841.github.io" target="_blank" rel="noopener noreferrer">
