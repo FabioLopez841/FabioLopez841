@@ -32,20 +32,30 @@ I’ve learned that every dataset hides a story, and my job is to make that stor
 
 ---
 
-# 📊 Data Analytics Portfolio  
+<!-- Hero Banner Premium -->
+<p align="center">
+  <a href="https://tuusuario.github.io" target="_blank" rel="noopener noreferrer">
+    <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmRtMDRodXVncm4yem9qZnBrbWJ6d25oMDdvbjI2em44d3lpaTJzcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SpopD7IQN2gK3qN4jS/giphy.gif" width="420" alt="Accede a mi portafolio">
+  </a>
+</p>
 
-Exploro cómo los datos pueden resolver problemas reales, optimizar procesos y generar valor.  
-Aquí puedes ver algunos de mis proyectos destacados:
+<h2 align="center">🌐 Mi Portafolio Profesional</h2>
 
 <p align="center">
-  <a href="https://FabioLopez841.github.io" target="_blank" rel="noopener noreferrer">
-    <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmRtMDRodXVncm4yem9qZnBrbWJ6d25oMDdvbjI2em44d3lpaTJzcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SpopD7IQN2gK3qN4jS/giphy.gif" width="420" alt="Portafolio de Fabio">
+  Explora mis proyectos, análisis, visualizaciones y dashboards.<br>
+  Todo en un solo lugar, diseñado para mostrar cómo convierto datos en decisiones.
+</p>
+
+<p align="center">
+  <a href="https://tuusuario.github.io" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/✨ Ver Portafolio-000000?style=for-the-badge" alt="Ir al portafolio">
   </a>
 </p>
 
 <p align="center">
-  <sub>Haz clic en la imagen para visitar mi portafolio en una nueva pestaña.</sub>
+  <sub>Haz clic en la imagen o el botón para abrir mi portafolio en una nueva pestaña.</sub>
 </p>
+
 
 
 
