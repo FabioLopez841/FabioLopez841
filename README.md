@@ -42,7 +42,9 @@ Aquí puedes ver algunos de mis proyectos destacados:
     <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmRtMDRodXVncm4yem9qZnBrbWJ6d25oMDdvbjI2em44d3lpaTJzcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SpopD7IQN2gK3qN4jS/giphy.gif" width="420" alt="Portafolio de Fabio">
   </a>
 </p>
-
+<p align="center">
+  <sub>Haz clic en la imagen para visitar mi portafolio profesional.</sub>
+</p>
 
 
 ## 🛠️ Tools & Technologies  
