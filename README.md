@@ -5,7 +5,8 @@
 </p>
 
 ---
-## 👋 Sobre mí / About Me  
+## <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHhsbzBtenBmMXJ1bDFzZWttY3F2NWNmd3ZjNjdkdjZkOTR1cGRpbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/w1OBpBd7kJqHrJnJ13/giphy.gif" width="24" height="24"> Sobre mí / About Me
+
 
 
 
